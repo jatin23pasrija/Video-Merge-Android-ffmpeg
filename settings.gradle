@@ -1,0 +1,2 @@
+rootProject.name='VMPlayer'
+include ':app'
